@@ -20,6 +20,9 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
    ```bash
    git clone https://github.com/Abiezaptr/claim.git
 
+## Database SQL
+1. file sql terdapat didalam folder db_sql
+
 
 review dashboard
 
