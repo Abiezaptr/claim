@@ -19,3 +19,9 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
 1. **Clone repository ini:**
    ```bash
    git clone https://github.com/Abiezaptr/claim.git
+
+
+review dashboard
+
+![LIST LOB](https://github.com/user-attachments/assets/7449bf70-abf0-4fa5-b0f2-4200165ee306)
+
